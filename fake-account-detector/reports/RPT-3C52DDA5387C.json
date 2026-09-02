@@ -1,0 +1,21 @@
+{
+  "report_id": "RPT-3C52DDA5387C",
+  "account_id": "acc_3",
+  "username": "bot_user_9283",
+  "timestamp": "2026-08-29T15:58:32.380459",
+  "confidence_score": 0.94,
+  "risk_level": "CRITICAL",
+  "suspicion_reasons": [
+    "High digit ratio in username (bot-generated name)",
+    "No profile picture uploaded",
+    "Majority of activity during night hours (bot pattern)",
+    "Very few posts (0)",
+    "Near-zero engagement rate",
+    "Aggressive following pattern (follow-for-follow)",
+    "Empty identity: no profile pic + short bio"
+  ],
+  "model_used": "stack_ensemble",
+  "status": "pending_review",
+  "action_taken": "auto_flagged",
+  "recommended_action": "Immediate suspension and manual investigation required"
+}

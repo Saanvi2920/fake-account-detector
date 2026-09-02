@@ -1,0 +1,7 @@
+Model,accuracy,precision,recall,f1,roc_auc
+Logistic Regression,1.0,1.0,1.0,1.0,1.0
+Decision Tree,1.0,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0,1.0
+Xgboost,1.0,1.0,1.0,1.0,1.0
+Ann,1.0,1.0,1.0,1.0,1.0
+Stack Ensemble,1.0,1.0,1.0,1.0,1.0

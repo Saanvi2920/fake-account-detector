@@ -1,0 +1,23 @@
+{
+  "report_id": "RPT-30607AFC7620",
+  "account_id": "acc_4",
+  "username": "sp4m_acc_5521",
+  "timestamp": "2026-08-29T15:58:32.410740",
+  "confidence_score": 0.89,
+  "risk_level": "HIGH",
+  "suspicion_reasons": [
+    "High digit ratio in username (bot-generated name)",
+    "No profile picture uploaded",
+    "Empty or minimal bio",
+    "Severe follower/following imbalance (70/889)",
+    "Majority of activity during night hours (bot pattern)",
+    "Near-zero engagement rate",
+    "Very new account (26 days old)",
+    "Aggressive following pattern (follow-for-follow)",
+    "Empty identity: no profile pic + short bio"
+  ],
+  "model_used": "stack_ensemble",
+  "status": "pending_review",
+  "action_taken": "auto_flagged",
+  "recommended_action": "Flag for priority review, restrict account activity"
+}

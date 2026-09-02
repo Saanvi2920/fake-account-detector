@@ -1,0 +1,16 @@
+{
+  "batch_timestamp": "2026-08-29T15:58:32.444191",
+  "total_reports": 3,
+  "risk_distribution": {
+    "CRITICAL": 2,
+    "HIGH": 1,
+    "MEDIUM": 0,
+    "LOW": 0
+  },
+  "accounts_requiring_immediate_action": 3,
+  "reports": [
+    "RPT-3C52DDA5387C",
+    "RPT-30607AFC7620",
+    "RPT-A3382A94FBB1"
+  ]
+}

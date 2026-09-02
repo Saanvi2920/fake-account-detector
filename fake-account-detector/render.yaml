@@ -1,0 +1,11 @@
+buildCommand: pip install -r requirements.txt
+startCommand: gunicorn app:app
+
+services:
+  - type: web
+    name: fake-account-detector
+    runtime: python
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12"

@@ -1,0 +1,21 @@
+{
+  "report_id": "RPT-29B3341D966E",
+  "account_id": "acc_test",
+  "username": "test_user",
+  "timestamp": "2026-08-29T20:30:39.050331",
+  "confidence_score": 0.9989,
+  "risk_level": "CRITICAL",
+  "suspicion_reasons": [
+    "High digit ratio in username (bot-generated name)",
+    "Empty or minimal bio",
+    "Majority of activity during night hours (bot pattern)",
+    "Very few posts (-1.5853113177177869)",
+    "Near-zero engagement rate",
+    "Very new account (-1.1802019979104093 days old)",
+    "Abnormal bot-like activity pattern"
+  ],
+  "model_used": "stack_ensemble",
+  "status": "pending_review",
+  "action_taken": "auto_flagged",
+  "recommended_action": "Immediate suspension and manual investigation required"
+}

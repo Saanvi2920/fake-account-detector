@@ -1,0 +1,19 @@
+{
+  "report_id": "RPT-A3382A94FBB1",
+  "account_id": "acc_5",
+  "username": "fake_promo_7744",
+  "timestamp": "2026-08-29T15:58:32.430366",
+  "confidence_score": 0.97,
+  "risk_level": "CRITICAL",
+  "suspicion_reasons": [
+    "High digit ratio in username (bot-generated name)",
+    "Empty or minimal bio",
+    "Severe follower/following imbalance (5/663)",
+    "Majority of activity during night hours (bot pattern)",
+    "Aggressive following pattern (follow-for-follow)"
+  ],
+  "model_used": "stack_ensemble",
+  "status": "pending_review",
+  "action_taken": "auto_flagged",
+  "recommended_action": "Immediate suspension and manual investigation required"
+}
